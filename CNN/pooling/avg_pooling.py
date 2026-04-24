@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras.layers import AveragePooling2D
+from tensorflow.keras.layers import AveragePooling2D # type: ignore
 
 feature_map = np.array([
     [1,3,2,9],
