@@ -33,5 +33,5 @@ Image-classification/
 │── requirements.txt    # Dependencies
 
 📸 Demo
-![alt text](Image-classification/image.png)
-![alt text](Image-classification/img2.png)
+![alt text](image.png)
+![alt text](img2.png)
