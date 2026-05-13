@@ -67,7 +67,7 @@ Run the GUI:
 
 bash
 python gui.py
-📂 Project Structure
+# 📂 Project Structure
 Code
 Image-classification/
 │── gui.py              # GUI application
@@ -77,21 +77,18 @@ Image-classification/
 │── README.md           # Documentation
 │── image.png           # Demo screenshot
 │── img2.png            # Demo screenshot
-📸 Demo
+# 📸 Demo
 Here’s how the GUI looks:
 
 ![alt text](image.png)
 ![alt text](img2.png)
 
-🧠 Model Details
+# 🧠 Model Details
 Architecture: Convolutional Neural Network (CNN)
 
 Dataset: CIFAR-10
 
-Accuracy: ~85%
+Accuracy: ~68%
 
-📜 License
+3📜 License
 This project is licensed under the MIT License.
-
-🔗 Links
-GitHub Repository (github.com in Bing)
