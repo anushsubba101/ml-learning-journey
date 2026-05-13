@@ -80,8 +80,8 @@ Image-classification/
 📸 Demo
 Here’s how the GUI looks:
 
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+![alt text](image.png)
+![alt text](img2.png)
 
 🧠 Model Details
 Architecture: Convolutional Neural Network (CNN)
