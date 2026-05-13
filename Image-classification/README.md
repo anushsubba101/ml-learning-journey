@@ -14,7 +14,6 @@ It includes:
 ## 🛠️ Installation
 Clone the repository and set up the environment:
 
-```bash
 git clone https://github.com/anushsubba101/ml-learning-journey.git
 cd ml-learning-journey/Image-classification
 python -m venv venv
