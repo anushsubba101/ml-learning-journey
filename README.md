@@ -21,7 +21,7 @@ Hands-on deep learning fundamentals, documented notebook by notebook. Each folde
 
 ## Why this repo exists
 
-Most tutorials show the finished model. This repo is the opposite — it's the scratch work: testing what happens when you change one variable at a time (initialization, batch size, regularization strength) so the *why* behind deep learning best practices actually sticks.
+Most tutorials show the finished model. This repo is the opposite-it's the scratch work: testing what happens when you change one variable at a time (initialization, batch size, regularization strength) so the deep learning best practices actually sticks.
 
 ## Tech Stack
 
